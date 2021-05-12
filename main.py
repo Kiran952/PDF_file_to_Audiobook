@@ -12,4 +12,7 @@ for num in range (10,pages):
     speaker.runAndWait()
 
 
+
 #total page numbers in pdf file is 14
+
+#uploading in  Github
